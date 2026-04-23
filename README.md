@@ -2,7 +2,7 @@
 
 - Master's student in Computer Science
 - University of Tsukuba
-- [Center for Computer Science](https://www.ccs.tsukuba.ac.jp/)
+- [Center for Computational Science](https://www.ccs.tsukuba.ac.jp/)
 
 ### Interests
 
