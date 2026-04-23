@@ -1,4 +1,4 @@
-## Chrsitopher
+## MyInfo
 
 - Master's student in Computer Science
 - University of Tsukuba
