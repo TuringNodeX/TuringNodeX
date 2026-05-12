@@ -3,7 +3,7 @@
 - Master's student in Computer Science
 - University of Tsukuba
 - [Center for Computational Science](https://www.ccs.tsukuba.ac.jp/)
-- Cyber Agent Group
+- CA Group
 
 ### Interests
 
